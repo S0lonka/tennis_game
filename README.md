@@ -1,0 +1,1 @@
+![Фото игры](/repository/images/tennis_game1.png)
